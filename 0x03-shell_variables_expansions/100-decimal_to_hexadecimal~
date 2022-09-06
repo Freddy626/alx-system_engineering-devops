@@ -1,0 +1,3 @@
+#!/bin/bash
+printf "%x\n" $((10#$DECIMAL))
+/n
